@@ -28,7 +28,7 @@ console.log(greeting);
 
 var firstname = 'John';
 
-// fucntion expression
+// function expression
 (function(name){
 
   var greeting = 'Inside IIFE: Hello';
